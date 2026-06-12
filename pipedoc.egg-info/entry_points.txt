@@ -1,0 +1,2 @@
+[console_scripts]
+pipedoc = pipedoc.cli:main
